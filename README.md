@@ -16,12 +16,16 @@ git clone https://github.com/imraunn/hyperparameter-optimization.git
 pip install pandas scikit-learn tqdm
 ```
 
-3. Run the hyperparameter optimization script:
+3. Run the hyperparameter optimization script with train_test_split
 
 ```bash
 python main.py
 ```
 
+Or, run the hyperparameter optimization script with KFold Cross Validation:
+```bash
+python kfold.py
+```
 ## Code Overview
 
 The code consists of the following main components:
