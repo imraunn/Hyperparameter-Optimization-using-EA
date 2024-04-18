@@ -1,6 +1,6 @@
 # Hyperparameter Optimization using Evolutionary Algorithm
 
-This repository contains Python code for hyperparameter optimization using an evolutionary algorithm. The algorithm aims to find optimal hyperparameters for a given machine learning classifier using the F1 score as the metric.
+This repository contains Python code for hyperparameter optimization using an evolutionary algorithm. The algorithm aims to find optimal hyperparameters for a given machine learning classifier using the F1 score as the metric. This code is inspired by Alexander Osipenko's repository: https://github.com/subpath/neuro-evolution/
 
 ## Usage
 
